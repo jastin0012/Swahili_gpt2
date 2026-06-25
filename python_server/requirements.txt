@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+onnxruntime
+tokenizers>=0.13.0
+numpy
+requests
